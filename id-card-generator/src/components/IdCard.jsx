@@ -9,12 +9,7 @@ function IdCard({ image, name, role, department, idNumber, email }) {
         <p>
           <span className="font-semibold">Department:</span> {department}
         </p>
-        <p>
-          <span className="font-semibold">ID:</span> {idNumber}
-        </p>
-        <p>
-          <span className="font-semibold">Email:</span> {email}
-        </p>
+       
       </div>
 
       <button className="mt-6 w-full rounded-lg bg-blue-500 py-2 text-white">View Profile</button>
