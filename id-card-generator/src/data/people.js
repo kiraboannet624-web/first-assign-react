@@ -9,7 +9,7 @@ export const people = [
     role: "Student",
     department: "Frontend",
     idNumber: "EMP-1001",
-    email: "kirabo@example.com",
+    email: "kirabo624@example.com",
     image: bieneImage,
   },
   {
