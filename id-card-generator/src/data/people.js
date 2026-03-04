@@ -7,7 +7,7 @@ export const people = [
     id: 1,
     name: "Kirabo",
     role: "Student",
-    department: "Frontend",
+    department: "it",
     idNumber: "EMP-1001",
     email: "kirabo624@gmail.com",
     image: bieneImage,
