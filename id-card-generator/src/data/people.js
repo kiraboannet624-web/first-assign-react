@@ -18,7 +18,7 @@ export const people = [
     role: "Designer",
     department: "Design",
     idNumber: "EMP-1002",
-    email: "annet@example.com",
+    email: "annet01@example.com",
     image: girlImage,
   },
   {
