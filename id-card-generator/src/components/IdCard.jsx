@@ -5,7 +5,7 @@ function IdCard({ image, name, role, department, idNumber, email }) {
       <h2 className="mt-6 text-center text-3xl font-bold">{name}</h2>
       <p className="mt-2 text-center text-lg">{role}</p>
 
-      <div className="mt-4 space-y-1 text-sm text-slate-700">
+      <div className="mt-4 space-y-1 text-sm text-slate-700 bg-emerald-200">
         <p>
           <span className="font-semibold">Department:</span> {department}
         </p>

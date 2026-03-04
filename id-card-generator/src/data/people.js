@@ -9,7 +9,7 @@ export const people = [
     role: "Student",
     department: "Frontend",
     idNumber: "EMP-1001",
-    email: "kirabo624@example.com",
+    email: "kirabo624@gmail.com",
     image: bieneImage,
   },
   {
@@ -18,7 +18,7 @@ export const people = [
     role: "Designer",
     department: "Design",
     idNumber: "EMP-1002",
-    email: "annet01@example.com",
+    email: "annet01@gmail.com",
     image: girlImage,
   },
   {
@@ -27,7 +27,7 @@ export const people = [
     role: "Developer",
     department: "Engineering",
     idNumber: "EMP-1003",
-    email: "kiki@example.com",
+    email: "kiki@gmail.com",
     image: glImage,
   },
 ]
